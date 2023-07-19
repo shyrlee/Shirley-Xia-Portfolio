@@ -2,3 +2,110 @@ Project 1 - Data Analytics Salary Analysis
 
 As part of my data analytics apprenticeship, I did a project analyzing a dataset containing salary information for data analytics professionals collected between 2020 and 2022. 
 
+- used a combination of Python and SQL to clean, manipulate and create data visualizations.
+
+Cleaning Data
+
+- data should have no null values and no duplicates
+
+!pip install psycopg2-binary sqlalchemy==1.4.47 ipython-sql==0.4.1
+
+%load_ext sql
+
+import os
+import pandas as pd
+import sqlalchemy as sql
+import matplotlib.pyplot as plt
+
+os.environ["DATABASE_URL"] = "postgresql://captmarroyo:v2_3uAvV_vFYzpBDytViYWU6RBVLBbJU@db.bit.io/captmarroyo/coopdataanalytics"
+# Create engine to connect to database w/ Python
+engine = sql.create_engine(os.environ["DATABASE_URL"])
+
+# Get the data from the database into a DataFrame
+ds_salaries = pd.read_sql("SELECT * FROM ds_salaries", con=engine)
+countries = pd.read_sql("SELECT * FROM countries", con=engine)
+usd_exchange_rates = pd.read_sql("SELECT * FROM usd_exchange_rates", con=engine)
+experience_levels = pd.read_sql("SELECT * FROM experience_levels", con=engine)
+employment_types = pd.read_sql("SELECT * FROM employment_types", con=engine)
+
+# Made a copy of the raw data to modify
+ds_salaries_clean = ds_salaries.copy()
+
+# Explored the data and its structure by looking at its metadata
+ds_salaries_clean.info()
+
+ds_salaries_clean.isna().sum()
+ds_salaries_clean = ds_salaries_clean.dropna(subset=["salary"]).reset_index(drop=True)
+ds_salaries_clean = ds_salaries_clean.dropna(subset="company_size").reset_index(drop=True)
+
+# Verify that null rows have been dropped
+assert ds_salaries_clean.salary.isna().sum() == 0
+assert ds_salaries_clean.company_size.isna().sum() == 0
+
+# Used the remote_ratio to determine the work type
+# Created a filter for "On-site only" remote ratios
+onsite_only = ds_salaries_clean.loc[ds_salaries_clean.remote_ratio == 0]
+ds_salaries_clean.loc[onsite_only.index, 'remote_work_type'] = 'On-site only'
+# hybrid filter
+Hybrid = ds_salaries_clean.loc[ds_salaries_clean.remote_ratio == 50]
+ds_salaries_clean.loc[Hybrid.index, 'remote_work_type'] = 'Hybrid'
+# fully remote filter
+fully_remote = ds_salaries_clean.loc[ds_salaries_clean.remote_ratio == 100]
+ds_salaries_clean.loc[fully_remote.index,'remote_work_type'] = "Fully remote"
+
+# Verification 
+# Check there are no nulls in remote_work_type
+assert ds_salaries_clean.remote_work_type.isna().sum() == 0
+# Check if values in remote_work_type were created correctly
+values = list(ds_salaries_clean.remote_work_type.unique())
+values_check = ['On-site only', 'Fully remote', 'Hybrid']
+assert  len(values) == len(values_check) and len([i for i in values if i in values_check]) == 3
+# Check there are no more null values in ds_salaries_clean
+assert ds_salaries_clean.isna().sum().sum() == 0
+
+# Merge the data from the two tables 
+ds_salaries_clean = pd.merge(
+    ds_salaries_clean, 
+    usd_exchange_rates,
+    left_on = ["salary_currency"],
+    right_on = ["iso_code"]    
+)
+
+# Convert the different currencies to USD for consistency 
+ds_salaries_clean.loc[:, "salary_in_usd"] = round(ds_salaries_clean['salary']/ds_salaries_clean['exchange_rate'])
+
+# Translated columns with abbreviated names by merging datasets
+ds_salaries_clean = pd.merge(
+    ds_salaries_clean, 
+    experience_levels,
+    left_on = ["experience_level"],
+    right_on = ["abbreviation"]
+)
+
+ds_salaries_clean = pd.merge(
+    ds_salaries_clean,
+    employment_types,
+    left_on = ["employment_type"],
+    right_on = ["abbreviation"]
+)
+
+ds_salaries_clean = pd.merge(
+    ds_salaries_clean,
+    countries,
+    left_on = ["company_location"],
+    right_on = ["abbreviation"]
+)
+
+ds_salaries_clean = ds_salaries_clean.drop(["abbreviation_x", "abbreviation_y", "abbreviation", "iso_code", "ref_date"], axis = 1)
+dropped_cols = ['abbreviation_x','abbreviation_y', 'abbreviation', 'iso_code', 'ref_date']
+assert len([i for i in ds_salaries_clean if i in dropped_cols]) == 0
+
+# Drop duplicate rows
+ds_salaries_clean = ds_salaries_clean.drop_duplicates()
+
+# Test for null values
+assert ds_salaries_clean.isna().sum().sum() == 0
+# Test for duplicates
+assert ds_salaries_clean.duplicated().sum() == 0
+
+ds_salaries_clean.to_csv("ds_salaries_clean.csv", index=False)
