@@ -25,8 +25,9 @@ In this section, I will list projects I've completed and give a brief summary
 * Data Analytics Apprenticeship - COOP Careers 2023
 
 ## Contacts 
-* Linkedin: https://www.linkedin.com/in/shirleyx28/
 * Email: sxia28@gmail.com
+* Linkedin: https://www.linkedin.com/in/shirleyx28/
+* Leetcode: https://leetcode.com/shyrlee/
 
 
 
