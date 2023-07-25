@@ -21,7 +21,7 @@ In this section, I will list projects I've completed and give a brief summary
 
 ## Certifications 
 * Google Data Analytics Certificate - Coursera (In-progress)
-* SQL Crash Course - CoRise 2023
+* [SQL Crash Course](https://www.credential.net/5ca938c2-e9c9-4bbc-abce-ec7279924969#gs.30z933) - CoRise 2023
 * Data Analytics Apprenticeship - COOP Careers 2023
 
 ## Contacts 
