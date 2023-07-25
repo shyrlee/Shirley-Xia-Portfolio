@@ -19,6 +19,32 @@ In this section, I will list projects I've completed and give a brief summary
 
 **Skills:** Data cleaning, data analysis, data visualization.
 
-**Technology:** Python, Pandas, Matplotlib, and SQL.
+**Language:** Python (Pandas and Matplotlib)
 
 **Results:** 
+
+### Sydney, Australia Airbnb Listings Analysis
+
+**Code:**
+
+**Goal:** An analysis of pricing for Airbnb listings in Sydney, Australia, and an investigation of unverified listings on the platform.
+
+**Skills:** Aggregate Functions, 
+
+**Language:** SQL
+
+
+**calendar**, **listings**, **reviews**, and **neighbourhoods**
+
+
+
+
+
+
+
+
+
+
+
+
+
