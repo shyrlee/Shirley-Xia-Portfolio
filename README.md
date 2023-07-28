@@ -9,7 +9,7 @@ Although I have a background in Biological Sciences, I recently completed a 200-
 In this section, I will list projects I've completed and give a brief summary
 
 ### Exploratory Data Analysis on Data Analytics Salary
-**Code:** 
+**Code:** [Salary Analysis on Colab](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/main/Salary%20Analysis/Salary%20Analysis.ipynb)
 
 **Goal:** The goal of this project is to do exploratory data analysis and discover trends and patterns with the data. By performing data cleaning and analysis using Python, this project aims to provide valuable insights through data visualization about the salary differences between data analytics professionals.
 
