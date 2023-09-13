@@ -43,7 +43,7 @@ You can also take a look at our [presentation](https://github.com/shyrlee/Shirle
 ## Certifications 
 * Google Data Analytics Certificate - Coursera (In-progress)
 * [SQL Crash Course](https://www.credential.net/5ca938c2-e9c9-4bbc-abce-ec7279924969#gs.30z933) - CoRise 2023
-* Data Analytics Apprenticeship - COOP Careers 2023
+* [Data Analytics Apprenticeship](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/29b1a7f5ba43c62049e67b8d80394fe6c7c82bed/DA%20COOP%20Certificate%20of%20Completion%20Spring%202023.pdf) - COOP Careers 2023
 
 ## Contacts 
 * Email: sxia28@gmail.com
