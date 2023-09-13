@@ -11,6 +11,8 @@ Furthermore, I hold a Bachelor of Arts in Biological Sciences from SUNY Binghamt
 In this section, I will list projects I've completed and give a summary
 
 ### Mental Health in US Tech Companies
+**Code:** [Mental Health in Tech Dashboard on Tableau Public](https://public.tableau.com/views/MentalHealthinUSTechCompanies/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 **Goal:** The goal of this project is to analyze the data to identify patterns, trends, and factors influencing mental health in tech companies across the United States. In addition to that, I created a dashboard using Tableau
 
 **Description:** This was a team project I completed as a data analyst apprentice at COOP Careers. I worked in a team of 5 to analyze the data, draw insights and conclusions, and present our findings to our cohort. The dataset has data collected from a survey in 2014, measuring the attitudes towards mental health and the frequency of mental health disorders in the tech workplace globally. For our project, my team decided to focus on tech companies solely in the United States and we cleaned the dataset accordingly and each member was assigned a different question to answer. 
