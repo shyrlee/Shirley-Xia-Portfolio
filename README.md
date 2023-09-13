@@ -1,12 +1,23 @@
 # Shirley Xia - Data Analyst Portfolio
 
 ## About
-Hi, I'm Shirley! Welcome to my portfolio. This repository is for showcasing the projects that I've completed using Python, SQL, Excel, and/or Tableau. 
+Hi, I'm Shirley! Welcome to my portfolio. This repository is for showcasing the projects that I've completed using Python, SQL, Excel, and Tableau. 
 
-Although I have a background in Biological Sciences, I recently completed a 200-hour Data Analytics Apprenticeship with COOP Careers. COOP Careers is a nonprofit organization that helps diverse, upwardly mobile college graduates overcome underemployment by teaching them digital skills and exposing them to peer connections. Through this apprenticeship and self-studying, I have developed proficiency in Data Analytics tools such as: Microsoft Excel (VLOOKUP, Pivot Tables) for data exploration and summarization, SQL for developing queries, Python (specifically Pandas) for data manipulation such as data cleaning and preprocessing, and Tableau for data visualization.
+Although I have a background in Biological Sciences, I recently completed a 200-hour Data Analytics Apprenticeship with COOP Careers. COOP Careers is a nonprofit organization that helps diverse, upwardly mobile college graduates overcome underemployment by teaching them digital skills and exposing them to peer connections. Through this apprenticeship and self-studying, I have developed proficiency in Data Analytics tools such as Microsoft Excel (VLOOKUP, Pivot Tables) for data exploration and summarization, SQL for creating queries, Python (specifically Pandas) for data manipulation such as data cleaning and preprocessing, and Tableau for data visualization.
 
 ## Portfolio Projects
-In this section, I will list projects I've completed and give a brief summary
+In this section, I will list projects I've completed and give a summary
+
+### Mental Health in US Tech Companies
+**Goal:** The goal of this project is to analyze the data to identify patterns, trends, and factors influencing mental health in tech companies across the United States. In addition to that, I created a dashboard using Tableau
+
+**Description:** This was a team project I completed as a data analyst apprentice at COOP Careers. I worked in a team of 5 to analyze the data, draw insights and conclusions, and present our findings to our cohort. The dataset has data collected from a survey in 2014, measuring the attitudes towards mental health and the frequency of mental health disorders in the tech workplace globally. For our project, my team decided to focus on tech companies solely in the United States and we cleaned the dataset accordingly and each member was assigned a different question to answer. 
+
+**Skills:** Data cleaning, data analysis, data visualization
+
+**Language:** Python
+
+**Tools:** Tableau
 
 ### Exploratory Data Analysis on Data Analytics Salary
 **Code:** [Salary Analysis on Colab](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/main/Salary%20Analysis/Salary%20Analysis.ipynb)
