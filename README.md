@@ -11,7 +11,7 @@ Furthermore, I hold a Bachelor of Arts in Biological Sciences from SUNY Binghamt
 In this section, I will list projects I've completed and give a summary
 
 ### Mental Health in US Tech Companies
-**Code:** [Mental Health in Tech Dashboard on Tableau Public](https://public.tableau.com/views/MentalHealthinUSTechCompanies/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+**Code:** 
 
 **Goal:** The goal of this project is to analyze the data to identify patterns, trends, and factors influencing mental health in tech companies across the United States. In addition to that, I created a dashboard using Tableau
 
@@ -19,9 +19,13 @@ In this section, I will list projects I've completed and give a summary
 
 **Skills:** Data cleaning, data analysis, data visualization
 
-**Language:** Python
+**Language:** Python (Pandas)
 
 **Tools:** Tableau
+
+![Mental Health in Tech](https://github.com/shyrlee/Shirley-Xia-Portfolio/assets/134797686/43c84c76-cc39-4299-97f3-4deb0d80b99b)
+
+[View Dashboard on Tableau Public](https://public.tableau.com/views/MentalHealthinUSTechCompanies/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Exploratory Data Analysis on Data Analytics Salary
 **Code:** [Salary Analysis on Colab](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/main/Salary%20Analysis/Salary%20Analysis.ipynb)
