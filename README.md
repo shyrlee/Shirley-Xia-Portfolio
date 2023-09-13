@@ -3,7 +3,9 @@
 ## About
 Hi, I'm Shirley! Welcome to my portfolio. This repository is for showcasing the projects that I've completed using Python, SQL, Excel, and Tableau. 
 
-Although I have a background in Biological Sciences, I recently completed a 200-hour Data Analytics Apprenticeship with COOP Careers. COOP Careers is a nonprofit organization that helps diverse, upwardly mobile college graduates overcome underemployment by teaching them digital skills and exposing them to peer connections. Through this apprenticeship and self-studying, I have developed proficiency in Data Analytics tools such as Microsoft Excel (VLOOKUP, Pivot Tables) for data exploration and summarization, SQL for creating queries, Python (specifically Pandas) for data manipulation such as data cleaning and preprocessing, and Tableau for data visualization.
+I recently completed a rigorous 200+ hour data analytics apprenticeship program at COOP Careers, equipping me with the essential skills to launch a career in data analytics. COOP Careers is a nonprofit organization that helps diverse, upwardly mobile college graduates overcome underemployment by teaching them digital skills and exposing them to peer connections. Through this apprenticeship and self-studying, I'm proficient in a range of data analytics tools including Microsoft Excel (VLOOKUP, Pivot Tables) for data exploration and summarization, SQL for creating queries, and Python (Pandas and Matplotlib) for data manipulation and data visualization. Additionally, I'm also familiar with Tableau for creating data visualizations and interactive dashboards.
+
+Furthermore, I hold a Bachelor of Arts in Biological Sciences from SUNY Binghamton. My experience in gathering data, identifying patterns, and drawing conclusions for scientific research projects has shown me the commonalities between the two fields, further enhancing my analytical capabilities.
 
 ## Portfolio Projects
 In this section, I will list projects I've completed and give a summary
