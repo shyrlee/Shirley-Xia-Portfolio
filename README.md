@@ -47,7 +47,7 @@ You can also take a look at our [presentation](https://github.com/shyrlee/Shirle
 
 ## Contacts 
 * Email: sxia28@gmail.com
-* Linkedin: https://www.linkedin.com/in/shirleyx28/
+* Linkedin: https://www.linkedin.com/in/sxia28/
 * Leetcode: https://leetcode.com/shyrlee/
 
 
