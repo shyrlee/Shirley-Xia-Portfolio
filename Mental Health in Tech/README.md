@@ -19,4 +19,4 @@ You can also take a look at our [presentation](https://github.com/shyrlee/Shirle
 
 [View Dashboard on Tableau Public](https://public.tableau.com/views/MentalHealthinUSTechCompanies/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Dataset from (Kaggle)[https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey]
+Dataset from [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
