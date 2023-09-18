@@ -27,7 +27,7 @@ You can also take a look at our [presentation](https://github.com/shyrlee/Shirle
 
 [View Dashboard on Tableau Public](https://public.tableau.com/views/MentalHealthinUSTechCompanies/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### Exploratory Data Analysis on Data Analytics Salary
+### [Exploratory Data Analysis on Data Analytics Salary](https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/d1aa630cfed0c46cf2ac8154c6323c153583a536/Salary%20Analysis)
 **Code:** [Salary Analysis on Colab](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/012213b79ea931a709cce954f72f488456a9f2d1/Salary%20Analysis/Salary_Analysis.ipynb)
 
 **Goal:** The goal of this project is to do exploratory data analysis and discover trends and patterns regarding salary differences between data analytics professionals. This project involved merging 5 different datasets from separate .csv files to create a cleaned and processed new .csv file for analysis and visualization. 
