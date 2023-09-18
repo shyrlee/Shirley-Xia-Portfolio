@@ -8,9 +8,9 @@ I recently completed a rigorous 200+ hour data analytics apprenticeship program 
 Furthermore, I hold a Bachelor of Arts in Biological Sciences from SUNY Binghamton. My experience in gathering data, identifying patterns, and drawing conclusions for scientific research projects has shown me the commonalities between the two fields, further enhancing my analytical capabilities.
 
 ## Portfolio Projects
-In this section, I will list projects I've completed and give a summary
+In this section, I will list projects I've completed with a brief summary. Feel free to open the links for more information on each project!
 
-### Mental Health in US Tech Companies
+### [Mental Health in US Tech Companies](https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/c420044efe71fa410fa9110ffb66870a09d51f94/Mental%20Health%20in%20Tech)
 **Code:** 
 
 **Goal:** The goal of this project is to analyze the data to identify patterns, trends, and factors influencing mental health in tech companies across the United States. I created a dashboard using Tableau highlighting the 3 main influences on mental health interference reports: age, gender, and location.
