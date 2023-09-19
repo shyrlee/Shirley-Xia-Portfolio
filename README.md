@@ -11,7 +11,7 @@ Furthermore, I hold a Bachelor of Arts in Biological Sciences from SUNY Binghamt
 In this section, I will list projects I've completed with a brief summary. Feel free to open the links for more information on each project!
 
 ### [Mental Health in US Tech Companies](https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/c420044efe71fa410fa9110ffb66870a09d51f94/Mental%20Health%20in%20Tech)
-**Code:** 
+**Code:** [Mental Health Survey Data Cleaning code](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3cb14ccd9b06a2996431711127da383e569b248c/Mental%20Health%20in%20Tech/Mental%20Health%20Survey%20Data%20Cleaning.ipynb)
 
 **Goal:** The goal of this project is to analyze the data to identify patterns, trends, and factors influencing mental health in tech companies across the United States. I created a dashboard using Tableau highlighting the 3 main influences on mental health interference reports: age, gender, and location.
 
