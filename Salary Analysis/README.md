@@ -1,12 +1,12 @@
 ### Exploratory Data Analysis on Data Analytics Salary
 In this folder, you will find
 1. My salary analysis and visualization [code](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/012213b79ea931a709cce954f72f488456a9f2d1/Salary%20Analysis/Salary_Analysis.ipynb)
-2. The countries [dataset](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/countries.csv)
-3. The data science salaries [dataset](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/ds_salaries.csv)
-4. The **cleaned** data science salaries [dataset](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/ds_salaries_clean.csv)
-5. The employment types [dataset](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/employment_types.csv)
-6. The experience levels [dataset](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/experience_levels.csv)
-7. The USD exchange rates [dataset](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/usd_exchange_rates.csv)
+2. The [countries] dataset(https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/countries.csv)
+3. The [data science salaries] dataset(https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/ds_salaries.csv)
+4. The [**cleaned** data science salaries] dataset(https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/ds_salaries_clean.csv)
+5. The [employment types] dataset(https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/employment_types.csv)
+6. The [experience levels] dataset(https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/experience_levels.csv)
+7. The [USD exchange rates] dataset(https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/usd_exchange_rates.csv)
 
 **Skillsets:** 
 - Python: data preprocessing, data analysis, and data visualization
