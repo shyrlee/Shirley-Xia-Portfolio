@@ -1,5 +1,5 @@
 ### Mental Health in US Tech Companies
-**Code:** 
+**Code:** [Cleaning Mental Health Survey Data Cleaning](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/a9d4c755479aaf432091f6aa9f5845416171f117/Mental%20Health%20in%20Tech/Mental%20Health%20Survey%20Data%20Cleaning.ipynb)
 
 **Goal:** The goal of this project is to analyze the data to identify patterns, trends, and factors influencing attitudes towards mental health in tech companies across the United States. I created a dashboard using Tableau highlighting the 3 main influences reporting mental health interferences: age, gender, and location.
 
@@ -7,7 +7,7 @@
 
 You can also take a look at our [presentation](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/0d0b984012399543f2d38f3fe65ad11b35984414/Mental%20Health%20in%20Tech/Mental%20Health%20In%20Tech%20Presentation.pdf) if you would like!
 
-**Conclusion:** After analyzing our data, we found that the factors that influence attitudes toward mental health include gender, age, geographical location, and employer benefits and resources. People are more receptive and open-minded to topics that they are exposed to, thus prompting mental health in the workplace is an essential component for creating a supportive and healthy work environment. My team and I gathered that more mental health workshops are needed to break the mental health stigma, especially for men. In addition to workshops, creating safe spaces for employees to express and share their emotions where they can find their community within the workplace is also important for a positive and productive environment.
+**Conclusion:** After analyzing our data, we found that the factors that influence attitudes toward mental health include gender, age, geographical location, and employer benefits and resources. People are more receptive and open-minded to topics that they are exposed to, thus prompting mental health as an essential component of a healthy work environment. My team and I gathered that more mental health workshops are needed to break the mental health stigma, especially for men. In addition to workshops, creating safe spaces for employees to express and share their emotions where they can find their community within the workplace is also important for a positive and productive environment.
 
 **Skillset:** 
 
