@@ -1,6 +1,6 @@
 ### Exploratory Data Analysis on Data Analytics Salary
 In this folder, you will find
-1. My salary analysis and visualization [python code](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/012213b79ea931a709cce954f72f488456a9f2d1/Salary%20Analysis/Salary_Analysis.ipynb)
+1. My salary analysis and visualization [python code](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/4f80526de52bc1549c2a833b7cc8335f34c81420/Salary%20Analysis/Data%20Professionals%20Salary%20EDA%20.ipynb)
 2. The [countries](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/countries.csv) dataset
 3. The [data science salaries](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/ds_salaries.csv) dataset
 4. The [**cleaned** data science salaries](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/513f0b8bf61c45f489ba57762c57371adeec6673/Salary%20Analysis/ds_salaries_clean.csv) dataset
