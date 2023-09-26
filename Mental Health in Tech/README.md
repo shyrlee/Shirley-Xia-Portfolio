@@ -4,7 +4,7 @@ In this folder, you will find
 2. My data cleaning [code](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/a9d4c755479aaf432091f6aa9f5845416171f117/Mental%20Health%20in%20Tech/Mental%20Health%20Survey%20Data%20Cleaning.ipynb)
 3. My Tableau [dashboard](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/8e03383eca0794f2d6a565a51f822cce07ac6a45/Mental%20Health%20in%20Tech/Mental%20Health%20in%20Tech%20Dashboard.png) I created
 4. The original [Mental Health Survey](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/8e03383eca0794f2d6a565a51f822cce07ac6a45/Mental%20Health%20in%20Tech/mental_health_survey.csv) dataset
-5. My [cleaned Mental Health Survey](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/8e03383eca0794f2d6a565a51f822cce07ac6a45/Mental%20Health%20in%20Tech/mentalhealth_clean.csv) dataset
+5. My [cleaned Mental Health Survey](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/af2fa5bb95ea12d4bff5defeb2d0862725b61b8f/Mental%20Health%20in%20Tech/mentalhealth_clean.csv) dataset
 
 **Skillset:** 
 
