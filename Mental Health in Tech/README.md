@@ -1,7 +1,7 @@
 ### Mental Health in US Tech Companies
 In this folder, you will find
 1. My team's [presentation](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/0d0b984012399543f2d38f3fe65ad11b35984414/Mental%20Health%20in%20Tech/Mental%20Health%20In%20Tech%20Presentation.pdf)
-2. My data cleaning [code](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/a9d4c755479aaf432091f6aa9f5845416171f117/Mental%20Health%20in%20Tech/Mental%20Health%20Survey%20Data%20Cleaning.ipynb)
+2. My data cleaning [code](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/2960fe34ea6b920a9da4f2e24bb33abe8a2189b1/Mental%20Health%20in%20Tech/Mental%20Health%20in%20Tech%20Data%20Cleaning%20Code.ipynb)
 3. My Tableau [dashboard](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/8e03383eca0794f2d6a565a51f822cce07ac6a45/Mental%20Health%20in%20Tech/Mental%20Health%20in%20Tech%20Dashboard.png) I created
 4. The original [Mental Health Survey](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/8e03383eca0794f2d6a565a51f822cce07ac6a45/Mental%20Health%20in%20Tech/mental_health_survey.csv) dataset
 5. My [cleaned Mental Health Survey](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/af2fa5bb95ea12d4bff5defeb2d0862725b61b8f/Mental%20Health%20in%20Tech/mentalhealth_clean.csv) dataset
