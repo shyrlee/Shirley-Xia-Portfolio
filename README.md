@@ -14,7 +14,7 @@ Throughout my apprenticeship journey and self-guided studies, I've become famili
 
 My academic foundation includes a Bachelor of Arts in Biological Sciences from SUNY Binghamton. This background has provided me with a strong grounding in scientific research and data analysis. I've discovered that the skills and methodologies I applied in scientific research beautifully align with those in data analytics.
 
-Feel free to explore my portfolio to see how I've applied these skills to various projects. I'm excited about the opportunity to contribute my expertise to data-driven endeavors and continue my journey in the world of analytics.
+Feel free to explore my portfolio to see how I've applied these skills to various projects. I'm excited about the opportunity to start my journey in the world of analytics.
 
 ## Portfolio Projects
 Please don't hesitate to open the links for more information on each project!
