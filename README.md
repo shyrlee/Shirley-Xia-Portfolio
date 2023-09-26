@@ -8,8 +8,11 @@ I recently completed an intensive 200+ hour data analytics apprenticeship progra
 Throughout my apprenticeship journey and self-guided studies, I've become familiar with several data analytics tools:
 
 **Microsoft Excel:** For data exploration and summarization, utilizing features such as VLOOKUP and Pivot Tables
+<br>
 **SQL:** Creating queries to extract valuable insights from databases
+<br>
 **Python:** Using libraries like Pandas and Matplotlib for data manipulation and visualization.
+<br>
 **Tableau:** Crafting data visualizations and dashboards (business intelligence tool)
 
 My academic foundation includes a Bachelor of Arts in Biological Sciences from SUNY Binghamton. This background has provided me with a strong grounding in scientific research and data analysis. I've discovered that the skills and methodologies I applied in scientific research beautifully align with those in data analytics.
