@@ -39,8 +39,8 @@ You can also take a look at our [presentation](https://github.com/shyrlee/Shirle
 **Language:** Python (Pandas)
 
 **Tools:** Tableau
-I created a dashboard using Tableau highlighting the three main influences on reporting mental health interference: age, gender, and location.
 
+I created a dashboard using Tableau highlighting the three main influences on reporting mental health interference: age, gender, and location.
 ![Mental Health in Tech Dashboard](https://github.com/shyrlee/Shirley-Xia-Portfolio/assets/134797686/c2e9a664-12ab-4f8b-a1d5-ec7a7e61c503)
 
 [View Dashboard on Tableau Public](https://public.tableau.com/views/MentalHealthinUSTechCompanies/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
