@@ -3,7 +3,7 @@ I embarked on a self-driven project by following a comprehensive YouTube tutoria
 **Skillset:**
 - Tools: Microsoft Excel
 - XLOOKUP
-- If Statements
+- If Functions
 - Mathematical Functions
 - Pivot Tables
 - INDEX
