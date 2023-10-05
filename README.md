@@ -23,7 +23,7 @@ Feel free to explore my portfolio to see how I've applied these skills to variou
 Please don't hesitate to open the links for more information on each project!
 
 ### Coffee Sales Dashboard
-**Goal:** To combine multiple tables using XLOOKUP and INDEX about data regarding coffee sales. Followed a comprehensive video to create this dashboard.
+**Goal:** To combine multiple tables of data about coffee sales using XLOOKUP and INDEX. Followed a comprehensive video to create a dashboard.
 
 **Skills:** XLOOKUP, IF function, Mathematical Function, INDEX, Pivot Tables, Dashboard, Data Visualization
 
