@@ -22,6 +22,13 @@ Feel free to explore my portfolio to see how I've applied these skills to variou
 ## Portfolio Projects
 Please don't hesitate to open the links for more information on each project!
 
+### Coffee Sales Dashboard
+**Goal:** To combine multiple tables using XLOOKUP and INDEX about data regarding coffee sales. Followed a comprehensive video to create this dashboard.
+
+**Skills:** XLOOKUP, IF function, Mathematical Function, INDEX, Pivot Tables, Dashboard, Data Visualization
+
+**Tools:** Microsoft Excel
+
 ### The Proof Photography Client Project
 **Goal:** Collaborate as a team to assist our client, The Proof Photography, by conducting a comprehensive analysis of their social media, website, customer profile, and competitor data. Based on this analysis, provide actionable recommendations to enhance their digital strategy, drive future growth, increase sales/marketing effectiveness, and expand their target audience reach.
 
