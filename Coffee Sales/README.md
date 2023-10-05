@@ -6,3 +6,4 @@ I embarked on a self-driven project by following a comprehensive YouTube tutoria
 - If Statements
 - Mathematical Functions
 - Pivot Tables
+- INDEX
