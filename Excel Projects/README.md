@@ -2,14 +2,13 @@
 
 Projects I've completed following [freeCodeCamp.org](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=3582s&ab_channel=freeCodeCamp.org) to get familiar with the functionality of Microsoft Excel
 
-I uploaded the pdfs of my projects into this folder, you can access the full excel file [here](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3e88f7281e1510c661916057364fb0b24ab92479/Excel%20Projects/Excel%20Projects.xlsx)
+I uploaded the pdfs of my projects into this folder, alternatively, you can click on the project title to access the prospective pdfs. 
+The full Excel file can be downloaded and viewed [here](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3e88f7281e1510c661916057364fb0b24ab92479/Excel%20Projects/Excel%20Projects.xlsx)
 
 **[Payroll](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3e88f7281e1510c661916057364fb0b24ab92479/Excel%20Projects/Excel%20-%20Payroll.pdf)**
 - set up a spreadsheet of employee information (fake information, fake name, hours and pay)
 - mathematical functions (multiply, divide, sum)
 - IF formula
-
-
 
 **[Gradebook](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3e88f7281e1510c661916057364fb0b24ab92479/Excel%20Projects/Excel%20-%20Gradebook.pdf)**
 - Conditional formatting
@@ -18,15 +17,12 @@ I uploaded the pdfs of my projects into this folder, you can access the full exc
 - Data Visualization
     - Bar graphs
 - Gradebook for employees. Safety test, financial skills test, company philosophy test, and drug test. employment is given based on testing level. new employees testing after job interview.
-  
-<object data="[Excel - Payroll.pdf](https://github.com/shyrlee/Shirley-Xia-Portfolio/files/13106259/Excel.-.Payroll.pdf)
-" width="1000" height="1000" type='application/pdf'/>
 
-**Decision Maker**
+**[Decision Maker](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/f5a92f4f6dace26d6a724a27d3e971fbfdd6eee2/Excel%20Projects/Excel%20-%20Decision%20Maker.pdf)**
 - picking a career based on different factors and how important each factor is to you
 - mathematical functions
 
-**Sales Database**
+**[Sales Database](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3f845a3abd74aea3865858fcb8fbce2784366752/Excel%20Projects/Excel%20-%20Sales%20Database.pdf)**
 - text to column
 - IF formula
 - SUMIF formula
@@ -37,7 +33,7 @@ I uploaded the pdfs of my projects into this folder, you can access the full exc
     - Bar graph
     - Line graph
 
-**Car Inventory**
+**[Car Inventory](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3f845a3abd74aea3865858fcb8fbce2784366752/Excel%20Projects/Excel%20-%20Car%20Inventory.pdf)**
 - Import text files into excel
 - Split and concatenate text
     - LEFT, RIGHT, MID, CONCAT
