@@ -22,21 +22,21 @@ Feel free to explore my portfolio to see how I've applied these skills to variou
 ## Portfolio Projects
 Please don't hesitate to open the links for more information on each project!
 
-### Excel Projects
-**Goal:** To practice using Microsoft Excel following a comprehensive video
+### [Excel Projects](https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/8e6b205d0ee9e7f26359047c86c901c263755598/Excel%20Projects)
+**Goal:** To enhance my data analytics skills by applying techniques learned from a comprehensive Microsoft Excel tutorial video
 
-**Skills:** VLOOKUP, filtering and sorting, functions and formulas (SUMIF, IF, etc), Pivot Tables, Data Visualization
+**Skills:** VLOOKUP, filtering and sorting, functions and formulas (SUMIF, IF, etc), pivot tables, data visualization, and conditional formatting
 
 **Tools:** Microsoft Excel
 
-### Coffee Sales Dashboard
-**Goal:** To combine multiple tables of data about coffee sales using XLOOKUP and INDEX. Followed a video to create a dashboard.
+### [Coffee Sales Dashboard](https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/8e6b205d0ee9e7f26359047c86c901c263755598/Coffee%20Sales)
+**Goal:** To consolidate multiple datasets on coffee sales by leveraging XLOOKUP and INDEX functions, as demonstrated in a tutorial video, and subsequently create a data dashboard.
 
 **Skills:** XLOOKUP, IF function, Mathematical Function, INDEX, Pivot Tables, Dashboard, Data Visualization
 
 **Tools:** Microsoft Excel
 
-### The Proof Photography Client Project
+### [The Proof Photography Client Project]https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/8e6b205d0ee9e7f26359047c86c901c263755598/Mental%20Health%20in%20Tech)
 **Goal:** Collaborate as a team to assist our client, The Proof Photography, by conducting a comprehensive analysis of their social media, website, customer profile, and competitor data. Based on this analysis, provide actionable recommendations to enhance their digital strategy, drive future growth, increase sales/marketing effectiveness, and expand their target audience reach.
 
 This is our team's [presentation](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/b056de442c9f4e8885f3a3be5eaf496e5300103c/The%20Proof%20Photography%20Client%20Project/COOP%20CLIENT%20PROJECT%20PRESENTATION%20C287.pdf)
