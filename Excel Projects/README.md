@@ -38,6 +38,7 @@ The full Excel file can be downloaded and viewed [here](https://github.com/shyrl
     - Line graph
 
 **[Car Inventory](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/ecda4f20ae18c46de5ccd94db4da43824557c3ab/Excel%20Projects/Excel%20Projects%20PDF%20Files/Excel%20-%20Car%20Inventory.pdf)**
+
 **Project Description:** Analyzed car inventory dataset in Excel, encompassing data points like car ID, miles driven, color, driver's name, and warranty miles. Addressed missing data by parsing text using VLOOKUP, determined car age and warranty status using the IF formula, and computed miles driven per year through mathematical functions. Visualized the average miles driven by each driver and explored the relationship between car mileage and car age.
 
 **Skillset:**
