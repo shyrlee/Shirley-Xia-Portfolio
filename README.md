@@ -23,7 +23,7 @@ Feel free to explore my portfolio to see how I've applied these skills to variou
 Please don't hesitate to open the links for more information on each project!
 
 ### [Excel Projects](https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/8e6b205d0ee9e7f26359047c86c901c263755598/Excel%20Projects)
-**Goal:** To enhance my data analytics skills by applying techniques learned from a comprehensive Microsoft Excel tutorial video
+**Goal:** To familiarize and practice using Excel by applying techniques learned from a comprehensive Microsoft Excel tutorial video
 
 **Skills:** VLOOKUP, filtering and sorting, functions and formulas (SUMIF, IF, etc), pivot tables, data visualization, and conditional formatting
 
