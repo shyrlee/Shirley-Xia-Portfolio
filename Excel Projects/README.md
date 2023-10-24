@@ -1,4 +1,4 @@
-###Excel Projects Description
+### Excel Projects Description
 
 Projects I've completed following [freeCodeCamp.org](https://www.youtube.com/watch?v=Vl0H-qTclOg&t=3582s&ab_channel=freeCodeCamp.org) to get familiar with the functionality of Microsoft Excel
 
