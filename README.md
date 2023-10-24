@@ -22,6 +22,13 @@ Feel free to explore my portfolio to see how I've applied these skills to variou
 ## Portfolio Projects
 Please don't hesitate to open the links for more information on each project!
 
+### Excel Projects
+**Goal:** To practice using Microsoft Excel
+
+**Skills:** VLOOKUP, filtering and sorting, functions and formulas (SUMIF, IF, etc), Pivot Tables, Data Visualization
+
+**Tools:** Microsoft Excel
+
 ### Coffee Sales Dashboard
 **Goal:** To combine multiple tables of data about coffee sales using XLOOKUP and INDEX. Followed a comprehensive video to create a dashboard.
 
