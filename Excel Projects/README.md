@@ -22,7 +22,7 @@ The full Excel file can be downloaded and viewed [here](https://github.com/shyrl
 - picking a career based on different factors and how important each factor is to you
 - mathematical functions
 
-**[Sales Database](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3f845a3abd74aea3865858fcb8fbce2784366752/Excel%20Projects/Excel%20-%20Sales%20Database.pdf)**
+**[Sales Database](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/73e06e7be0305c9132e2d574b50ddda912bbaddc/Excel%20Projects/Excel%20-%20Sales%20Database.pdf)**
 - text to column
 - IF formula
 - SUMIF formula
@@ -33,7 +33,7 @@ The full Excel file can be downloaded and viewed [here](https://github.com/shyrl
     - Bar graph
     - Line graph
 
-**[Car Inventory](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/3f845a3abd74aea3865858fcb8fbce2784366752/Excel%20Projects/Excel%20-%20Car%20Inventory.pdf)**
+**[Car Inventory](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/73e06e7be0305c9132e2d574b50ddda912bbaddc/Excel%20Projects/Excel%20-%20Car%20Inventory.pdf)**
 - Import text files into excel
 - Split and concatenate text
     - LEFT, RIGHT, MID, CONCAT
