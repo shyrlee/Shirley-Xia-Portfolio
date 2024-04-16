@@ -36,7 +36,7 @@ Please don't hesitate to open the links for more information on each project!
 
 **Tools:** Microsoft Excel
 
-### [The Proof Photography Client Project]https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/8e6b205d0ee9e7f26359047c86c901c263755598/Mental%20Health%20in%20Tech)
+### [The Proof Photography Client Project](https://github.com/shyrlee/Shirley-Xia-Portfolio/tree/8e6b205d0ee9e7f26359047c86c901c263755598/Mental%20Health%20in%20Tech)
 **Goal:** Collaborate as a team to assist our client, The Proof Photography, by conducting a comprehensive analysis of their social media, website, customer profile, and competitor data. Based on this analysis, provide actionable recommendations to enhance their digital strategy, drive future growth, increase sales/marketing effectiveness, and expand their target audience reach.
 
 This is our team's [presentation](https://github.com/shyrlee/Shirley-Xia-Portfolio/blob/b056de442c9f4e8885f3a3be5eaf496e5300103c/The%20Proof%20Photography%20Client%20Project/COOP%20CLIENT%20PROJECT%20PRESENTATION%20C287.pdf)
